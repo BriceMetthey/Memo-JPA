@@ -87,6 +87,10 @@ public class Service {
     public Service(String name) {
         this.name = name;
     }
+    
+    // Getters Setters
+    
+ }
 
 ```
 Exemple d'utilisation :
