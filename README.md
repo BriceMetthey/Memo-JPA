@@ -7,6 +7,10 @@
 
 ## ManyToOne
 
+Un employé est lié à un service.
+
+Un service est lié à plusieurs employés.
+
 ```java
 import javax.persistence.Column;
 import javax.persistence.Entity;
